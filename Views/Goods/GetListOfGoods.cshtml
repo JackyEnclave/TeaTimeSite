@@ -1,0 +1,16 @@
+﻿<h1>Все товары</h1>
+<h2>@Model.currentCategory</h2>
+<div class="row mt-5 mb-2">
+	@{
+		foreach (var good in Model.AllGoods)
+		{
+			<div class="col-lg-4">
+				<img class="img-thumbnail" src="@good.img" alt="@good.name" />
+				<h3>@good.name</h3>
+				<p>@good.shortDesc</p>
+				<p>Цена: @good.price.ToString("c")</p>
+				<p><a class="btn btn-outline-primary" href="#">Подробнее</a></p>
+			</div>
+		}
+	}
+</div>

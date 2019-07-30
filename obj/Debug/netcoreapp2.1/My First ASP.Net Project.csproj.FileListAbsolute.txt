@@ -1,0 +1,52 @@
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.deps.json
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.runtimeconfig.json
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.runtimeconfig.dev.json
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.dll
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.csprojAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorAssemblyInfo.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorAssemblyInfo.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorTargetAssemblyInfo.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.dll
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.Views.dll
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.Views.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.TagHelpers.input.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.TagHelpers.output.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorCoreGenerate.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\Razor\Views\Goods\GetListOfGoods.g.cshtml.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorTargetAssemblyInfo.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.Views.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.csproj.CopyComplete
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\ASP.Net Core learning\My First ASP.Net Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.deps.json
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.runtimeconfig.json
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.runtimeconfig.dev.json
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.dll
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.Views.dll
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\bin\Debug\netcoreapp2.1\My First ASP.Net Project.Views.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.csprojAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorAssemblyInfo.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorAssemblyInfo.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.TagHelpers.input.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.TagHelpers.output.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorCoreGenerate.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\Razor\Views\Goods\GetListOfGoods.g.cshtml.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorTargetAssemblyInfo.cache
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.RazorTargetAssemblyInfo.cs
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.Views.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.dll
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2019\Projects\TeaTimeSite\My First ASP.Net Project\obj\Debug\netcoreapp2.1\My First ASP.Net Project.csproj.CopyComplete
