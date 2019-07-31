@@ -9,7 +9,7 @@ namespace TeaTimeSite.Data.Interfaces
     public interface IGoods
     {
         IEnumerable<Goods> Goods { get; }
-        IEnumerable<Goods> FavoriteGoods { get; set; }
+        IEnumerable<Goods> FavoriteGoods { get; }
         Goods GetOneGood(int id);
     }
 }
